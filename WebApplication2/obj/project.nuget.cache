@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nP/6zV4/dQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gep\\OneDrive - Corvinus University of Budapest\\_IT_architektura\\DevOps\\devops\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gep\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
